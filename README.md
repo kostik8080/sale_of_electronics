@@ -44,7 +44,7 @@ ___
 можно воспользоваться одной командой <h3>docker-compose up -d --build</h3> для запуска Docker контейнеров, 
 описанных в файле docker-compose.yml.
 * :white_check_mark: Дождитесь, пока все контейнеры успешно запустятся.
-* Чтобы зайти в админ панель ипользуйте команду <h3>docker-compose exec network python manage.py createsuperuser</h3>
+* :white_check_mark: Чтобы зайти в админ панель ипользуйте команду <h3>docker-compose exec network python manage.py createsuperuser</h3>
 ___
 
 ## Шаг 5: Проверка работоспособности
